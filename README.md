@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/35168858/README.md)
-# Week 3 – Password Cracking with JTR & NetworkWalks Tools
+[README.md](https://github.com/user-attachments/files/35170277/README.md)[Uploa# Week 3 – Password Cracking with JTR & NetworkWalks Tools
 
 Cybersecurity & Ethical Hacking course project — **Week 3, Project Modules 1 & 2** (NetworkWalks Academy).
 
@@ -40,7 +39,10 @@ The task was to recover the password of a locked PDF file using two different me
 ### Extracted hash (`my_hash_1.txt`)
 ```
 $pdf$4*4*128*-1028*1*16*ca7f72f11459cba469f1005a8765ed51*32*f32d8fa1bfbe2648226dffc39f7909ea0021446990b9e4114071a4d9104984c1*32*9322f50c29569712067a775264635e4954ccb1b99e209d664984054ffad30a6a
+```
 
+**Cracked password:** `password1`
+**Flag captured:** `nw{networkwalks_flag1_jtr_270521_1}`
 
 ## 🔑 Module 2 — Cracking with NetworkWalks Hash Calculator & Password Cracker
 
@@ -72,12 +74,14 @@ $pdf$4*4*128*-1028*1*16*34eb542eff4e1b0b32d25ce15a9a7281*32*b77872bfc9a24fb2f845
 $pdf$4*4*128*-1060*1*16*55d1a5c14175da449753199e44971d32*32*777fd021a7f3c5ae598c0c6495c7f76e00000000000000000000000000000000*32*ceecdac74b19b5a62688d3b3524e1374c955cbb9cc3c45316494d9446ef81af1
 ```
 
+<img width="960" height="540" alt="unlocked pdf 1" src="https://github.com/user-attachments/assets/85a0785e-5dc0-4a86-b32e-e4652f04cdeb" />
+
+<img width="960" height="540" alt="unlocked pdf 2" src="https://github.com/user-attachments/assets/d16b4c31-9cae-453d-a72a-fd49304d466d" />
+
+<img width="960" height="540" alt="unlocked pdf 3" src="https://github.com/user-attachments/assets/2b0fa8d5-80d5-44ad-92db-6c8aca9c7ec0" />
 
 
-<img width="960" height="540" alt="flag4_NWTools_PDF1" src="https://github.com/user-attachments/assets/37a4baed-0f2f-4d04-9f9b-a933eeee9cb8" />
-<img width="960" height="540" alt="flag3_PDF3" src="https://github.com/user-attachments/assets/9758fc28-a03d-491e-b1f4-5bb0dd5d619f" />
-<img width="960" height="540" alt="flag2_PDF2" src="https://github.com/user-attachments/assets/46f40df5-1bff-484e-af59-6f91077370b4" />
-<img width="960" height="540" alt="flag1_PDF1" src="https://github.com/user-attachments/assets/7c2aaa68-95a5-4852-9eea-de088f90ac4d" />
+<img width="960" height="540" alt="unlocked pdf Nw" src="https://github.com/user-attachments/assets/c031ea60-6ee6-41b7-a6cc-e440d774a42c" />
 
 
-*Course: Cybersecurity & Ethical Hacking — Week 3 Project Work (NetworkWalks Academy) · [networkwalks.com](https://www.networkwalks.com)*
+
