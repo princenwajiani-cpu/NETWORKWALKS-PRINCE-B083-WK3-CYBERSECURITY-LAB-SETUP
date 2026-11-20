@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/35168858/README.md)
 # Week 3 – Password Cracking with JTR & NetworkWalks Tools
 
 Cybersecurity & Ethical Hacking course project — **Week 3, Project Modules 1 & 2** (NetworkWalks Academy).
@@ -98,14 +99,11 @@ $pdf$4*4*128*-1060*1*16*55d1a5c14175da449753199e44971d32*32*777fd021a7f3c5ae598c
 | 1 | My Locked PDF1.pdf (JTR/Johnny) | `nw{cybersecurity_flag_captured_2608}` |
 | 2 | My Locked PDF2.pdf | `nw{networkwalks_persistence_jtr_270521}` |
 | 3 | My Locked PDF3.pdf | `nw{networkwalks_flag_260821_1}` |
-| 4 | My Locked PDF1.pdf (NetworkWalks Tools) | [my_hash_1.txt](https://github.com/user-attachments/files/35168188/my_hash_1.txt)
+| 4 | My Locked PDF1.pdf (NetworkWalks Tools) | `nw{networkwalks_flag1_jtr_270521_1}` |
+<img width="960" height="540" alt="flag4_NWTools_PDF1" src="https://github.com/user-attachments/assets/37a4baed-0f2f-4d04-9f9b-a933eeee9cb8" />
+<img width="960" height="540" alt="flag3_PDF3" src="https://github.com/user-attachments/assets/9758fc28-a03d-491e-b1f4-5bb0dd5d619f" />
+<img width="960" height="540" alt="flag2_PDF2" src="https://github.com/user-attachments/assets/46f40df5-1bff-484e-af59-6f91077370b4" />
+<img width="960" height="540" alt="flag1_PDF1" src="https://github.com/user-attachments/assets/7c2aaa68-95a5-4852-9eea-de088f90ac4d" />
 
-networkwalks_flag1_jtr_270521_1}` |
+
 *Course: Cybersecurity & Ethical Hacking — Week 3 Project Work (NetworkWalks Academy) · [networkwalks.com](https://www.networkwalks.com)*
-[README.md](https://github.com/user-attachments/files/35167982/README.md)
-
-
-
-
-
-
