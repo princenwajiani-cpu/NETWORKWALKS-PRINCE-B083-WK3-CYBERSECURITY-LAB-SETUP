@@ -40,15 +40,7 @@ The task was to recover the password of a locked PDF file using two different me
 ### Extracted hash (`my_hash_1.txt`)
 ```
 $pdf$4*4*128*-1028*1*16*ca7f72f11459cba469f1005a8765ed51*32*f32d8fa1bfbe2648226dffc39f7909ea0021446990b9e4114071a4d9104984c1*32*9322f50c29569712067a775264635e4954ccb1b99e209d664984054ffad30a6a
-```
 
-**Cracked password:** `password1`
-**Flag captured:** `nw{networkwalks_flag1_jtr_270521_1}`
-
-📸 Screenshot — PDF unlocked after JTR/Johnny attack:
-![Flag 1 — cracked with JTR/Johnny](screenshots/flag4_NWTools_PDF1.png)
-
----
 
 ## 🔑 Module 2 — Cracking with NetworkWalks Hash Calculator & Password Cracker
 
@@ -80,26 +72,8 @@ $pdf$4*4*128*-1028*1*16*34eb542eff4e1b0b32d25ce15a9a7281*32*b77872bfc9a24fb2f845
 $pdf$4*4*128*-1060*1*16*55d1a5c14175da449753199e44971d32*32*777fd021a7f3c5ae598c0c6495c7f76e00000000000000000000000000000000*32*ceecdac74b19b5a62688d3b3524e1374c955cbb9cc3c45316494d9446ef81af1
 ```
 
-**Cracked password:** `password1`
 
-📸 Screenshots — additional flags captured during the lab:
 
-| Screenshot | Result |
-|---|---|
-| ![Flag — My Locked PDF1](screenshots/flag1_PDF1.png) | `nw{cybersecurity_flag_captured_2608}` |
-| ![Flag — My Locked PDF2](screenshots/flag2_PDF2.png) | `nw{networkwalks_persistence_jtr_270521}` |
-| ![Flag — My Locked PDF3](screenshots/flag3_PDF3.png) | `nw{networkwalks_flag_260821_1}` |
-
----
-
-## 🏁 Flags Captured
-
-| # | Source file | Flag |
-|---|---|---|
-| 1 | My Locked PDF1.pdf (JTR/Johnny) | `nw{cybersecurity_flag_captured_2608}` |
-| 2 | My Locked PDF2.pdf | `nw{networkwalks_persistence_jtr_270521}` |
-| 3 | My Locked PDF3.pdf | `nw{networkwalks_flag_260821_1}` |
-| 4 | My Locked PDF1.pdf (NetworkWalks Tools) | `nw{networkwalks_flag1_jtr_270521_1}` |
 <img width="960" height="540" alt="flag4_NWTools_PDF1" src="https://github.com/user-attachments/assets/37a4baed-0f2f-4d04-9f9b-a933eeee9cb8" />
 <img width="960" height="540" alt="flag3_PDF3" src="https://github.com/user-attachments/assets/9758fc28-a03d-491e-b1f4-5bb0dd5d619f" />
 <img width="960" height="540" alt="flag2_PDF2" src="https://github.com/user-attachments/assets/46f40df5-1bff-484e-af59-6f91077370b4" />
